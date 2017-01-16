@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.Manifest.permission.RECEIVE_BOOT_COMPLETED
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:8:5-90
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:8:22-87
+application
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:10:5-54:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\Owner\.android\build-cache\714998430d34127b9232beb2c08f2331b0e649c0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Owner\.android\build-cache\4328fc11050f7d9b596a578ba0a188a6765578c5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Owner\.android\build-cache\e0ac5bc5933d8826e1018a2768c3b8fe4ab4e595\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Owner\.android\build-cache\a6718580dbb2c8a9a694a8752d50f5fed7f1eaa3\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Owner\.android\build-cache\4ee7abdfef1a96bb1d6e8f11b07bd19c7d50242f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Owner\.android\build-cache\3d645995818cb353510220cbf5a186072f7ae830\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Owner\.android\build-cache\d53a9d76ae67602c791f0255f68fa2ae4805eb90\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Owner\.android\build-cache\218bec37792b6ddf787639c4a6a1972b13661e12\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Owner\.android\build-cache\c7a2a187c0b22ffee230e799aa3cab304d470610\output\AndroidManifest.xml:25:5-20
+MERGED from [com.jakewharton.timber:timber:4.4.0] C:\Users\Owner\.android\build-cache\2443e885fa161093e0f474bb1d4521f8be6b57ca\output\AndroidManifest.xml:8:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\Owner\.android\build-cache\628672cdef7a8a762bb0056b57731e0606ed6a6f\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Owner\.android\build-cache\2e7c149f71cdfbe30402dde6506d94a896f0453b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Owner\.android\build-cache\d53beb2891365f59bc779f66e1499de59858b1eb\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:15:9-35
+	tools:ignore
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:17:9-48
+	android:allowBackup
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:12:9-36
+	android:icon
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:11:9-37
+activity#com.udacity.stockhawk.ui.MainActivity
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:18:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:22:27-74
+service#com.udacity.stockhawk.sync.QuoteIntentService
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:27:13-52
+provider#com.udacity.stockhawk.data.StockProvider
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:30:9-33:40
+	android:authorities
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:32:13-56
+	android:exported
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:31:13-47
+service#com.udacity.stockhawk.sync.QuoteJobService
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:35:9-39:72
+	android:enabled
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:36:13-49
+receiver#com.udacity.stockhawk.ui.Widget
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:41:9-49:20
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:41:19-44
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:42:13-44:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:43:17-84
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:43:25-81
+meta-data#android.appwidget.provider
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:46:13-48:62
+	android:resource
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:48:17-59
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:47:17-58
+activity#com.udacity.stockhawk.ui.Graphtivity
+ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:51:9-53:75
+	android:label
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:53:13-63
+	android:name
+		ADDED from K:\StockHawk\app\src\main\AndroidManifest.xml:52:13-43
+uses-sdk
+INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.0.1] C:\Users\Owner\.android\build-cache\714998430d34127b9232beb2c08f2331b0e649c0\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Owner\.android\build-cache\4328fc11050f7d9b596a578ba0a188a6765578c5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Owner\.android\build-cache\e0ac5bc5933d8826e1018a2768c3b8fe4ab4e595\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Owner\.android\build-cache\a6718580dbb2c8a9a694a8752d50f5fed7f1eaa3\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Owner\.android\build-cache\4ee7abdfef1a96bb1d6e8f11b07bd19c7d50242f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Owner\.android\build-cache\3d645995818cb353510220cbf5a186072f7ae830\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Owner\.android\build-cache\d53a9d76ae67602c791f0255f68fa2ae4805eb90\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Owner\.android\build-cache\218bec37792b6ddf787639c4a6a1972b13661e12\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Owner\.android\build-cache\c7a2a187c0b22ffee230e799aa3cab304d470610\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Owner\.android\build-cache\b9a9e96ea1e15ef647dd6f8af2b85eb34addb168\output\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.4.0] C:\Users\Owner\.android\build-cache\2443e885fa161093e0f474bb1d4521f8be6b57ca\output\AndroidManifest.xml:6:5-43
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\Owner\.android\build-cache\628672cdef7a8a762bb0056b57731e0606ed6a6f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Owner\.android\build-cache\d892d94c26e60940ea357a5fdc48827e23ad650c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Owner\.android\build-cache\2e7c149f71cdfbe30402dde6506d94a896f0453b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Owner\.android\build-cache\d53beb2891365f59bc779f66e1499de59858b1eb\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\Owner\.android\build-cache\714998430d34127b9232beb2c08f2331b0e649c0\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
+		INJECTED from K:\StockHawk\app\src\main\AndroidManifest.xml
