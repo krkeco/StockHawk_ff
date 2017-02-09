@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_percentage.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_percentage.png"
+    },
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_attach_money_white_24dp.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_attach_money_white_24dp.png"
+    },
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_white_24dp.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_dollar.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_dollar.png"
+    }
+]

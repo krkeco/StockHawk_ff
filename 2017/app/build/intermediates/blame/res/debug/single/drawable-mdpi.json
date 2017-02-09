@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_percentage.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-mdpi\\ic_percentage.png"
+    },
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_white_24dp.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-mdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_dollar.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-mdpi\\ic_dollar.png"
+    },
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_content_new.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_new.png"
+    },
+    {
+        "merged": "K:\\StockHawk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_attach_money_white_24dp.png",
+        "source": "K:\\StockHawk\\app\\src\\main\\res\\drawable-mdpi\\ic_attach_money_white_24dp.png"
+    }
+]

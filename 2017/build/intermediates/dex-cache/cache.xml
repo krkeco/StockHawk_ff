@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\4328fc11050f7d9b596a578ba0a188a6765578c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec9291be4225a49a9fd997a0c5e26bd22f4a4d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\2e7c149f71cdfbe30402dde6506d94a896f0453b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cc7823b41a38be62eae8c974f045c605790e8ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\4ee7abdfef1a96bb1d6e8f11b07bd19c7d50242f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5351164c71e09679f22e219b61f516fbb4e1560d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\a6718580dbb2c8a9a694a8752d50f5fed7f1eaa3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0629a64b4143a38341536bed5cbf586db42c8bfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\628672cdef7a8a762bb0056b57731e0606ed6a6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3da7feed584757c8f7b124617dc5da474df96fad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\c7a2a187c0b22ffee230e799aa3cab304d470610\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1330aba0c3cb3ae1c4fd6e33c872332902bcb04d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\d53beb2891365f59bc779f66e1499de59858b1eb\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_63d33b50928add7dd892f35ad4169581e0f6cbd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\c7a2a187c0b22ffee230e799aa3cab304d470610\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a44400ee7d67bfdf5b6e2ddbe4e5fa9462d22737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\b9a9e96ea1e15ef647dd6f8af2b85eb34addb168\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54fb69d72bad38d95852fefff55457eb6b3b5636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\714998430d34127b9232beb2c08f2331b0e649c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01e9613f0db130e22e9c4f5b27e1b85c88837f4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\d892d94c26e60940ea357a5fdc48827e23ad650c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_684e8f3ae5ea70d7328811fa38d8e768aa49d086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\d53beb2891365f59bc779f66e1499de59858b1eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f7bf8a78bcfbb79af62cc2e8116a508c9c3db80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\2443e885fa161093e0f474bb1d4521f8be6b57ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="76182d2ede06926e942e5a947a130b915b83a489">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce522693c5374da6d6724e29173192c688347973\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\e0ac5bc5933d8826e1018a2768c3b8fe4ab4e595\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c043473309fd9646e63d1673f08edf30edf00066\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\3d645995818cb353510220cbf5a186072f7ae830\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac8ff6236a0554f30c52d69f98986bc62897fb03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\d53a9d76ae67602c791f0255f68fa2ae4805eb90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c449847b2be8734741dd48748d6a0a95685f59a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\d53a9d76ae67602c791f0255f68fa2ae4805eb90\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d94d57ff4ef11eefb8408619d1f104e13597ede1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\218bec37792b6ddf787639c4a6a1972b13661e12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48a69d9100613318af4e8f08399f4e96381711c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\218bec37792b6ddf787639c4a6a1972b13661e12\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5c61d8d4159f50c3b174053779a1a8e33d5bdbb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\2e7c149f71cdfbe30402dde6506d94a896f0453b\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="K:\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f1c2a1ad75ae6bf0296a87cf6de1780e8058f578\classes.dex" />
+    </item>
+
+</items>
